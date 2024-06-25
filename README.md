@@ -23,8 +23,8 @@ A blockchain is a decentralized, distributed ledger that records transactions ac
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/simple-blockchain-go.git
-    cd simple-blockchain-go
+    git clone https://github.com/RMATLee/Go-Blockchain.git
+    cd Go-Blockchain
     ```
 
 2. Create a `.env` file in the root of the project and add the following line:
